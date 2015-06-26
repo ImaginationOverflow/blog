@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DVD-PC</Machine>
+    <WindowsUser>Diogo</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9a5c4561-e6d7-48a4-b9ef-fe13e521e16d</PackageIdentityName>
+    <IntermediateOutputPath>D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C6E075F6D798351101612D98F13A1B330E31367D3468ADDA6F07EAD767E094D8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9a5c4561-e6d7-48a4-b9ef-fe13e521e16d_1.0.0.0_neutral__s5zwcgvv6a5j0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9a5c4561-e6d7-48a4-b9ef-fe13e521e16d_s5zwcgvv6a5j0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9a5c4561-e6d7-48a4-b9ef-fe13e521e16d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Diogo</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-18T13:04:46.145</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\bin\Debug\App1.Windows.exe">
+      <PackagePath>App1.Windows.exe</PackagePath>
+      <Modified>2015-06-18T13:51:08.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T13:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T13:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\ClassLibrary1\bin\Debug\ClassLibrary1.dll">
+      <PackagePath>ClassLibrary1.dll</PackagePath>
+      <Modified>2015-06-18T13:42:32.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\MvvmLightLibs.5.1.1.0\lib\windows81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+      <Modified>2015-06-18T12:51:57.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\MvvmLightLibs.5.1.1.0\lib\windows81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+      <Modified>2015-06-18T12:51:57.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\MvvmLightLibs.5.1.1.0\lib\windows81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+      <Modified>2015-06-18T12:51:57.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2015-06-18T12:51:56.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+      <Modified>2015-06-18T12:48:57.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-18T13:04:45.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-18T13:51:08.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml">
+      <PackagePath>App1.Windows.xr.xml</PackagePath>
+      <Modified>2015-06-18T13:51:08.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\WinRTXamlToolkit.xr.xml">
+      <PackagePath>WinRTXamlToolkit\WinRTXamlToolkit.xr.xml</PackagePath>
+      <Modified>2015-06-18T12:48:57.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeView.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Themes\Generic.xbf">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-06-18T12:48:57.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-18T13:51:09.241</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
