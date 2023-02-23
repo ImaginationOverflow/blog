@@ -1,6 +1,0 @@
-<Modules>
-  <Module PersistentId="0E6681D5-B0BD-49E5-9C1B-565AC22EC5C2" ModuleId="App1.Windows" />
-  <Module PersistentId="CEAD74F2-1188-4C2F-8035-AD551451F304" ModuleId="ClassLibrary1" />
-  <Module PersistentId="Windows, Version=255.255.255.255, Culture=neutral, mvid=a327ea32-bbfd-46b9-a970-a7f324bb7169" ModuleId="Windows" />
-  <Module PersistentId="66AC855E-3153-4F67-9A1B-96D63660B5B7" ModuleId="App1.WindowsPhone" />
-</Modules>

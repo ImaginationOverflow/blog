@@ -1,2 +1,0 @@
-D:\FAC\Programing\Projects\Demos\App1\App1\App1.Windows\App1.Windows.csproj;neutral
-D:\FAC\Programing\Projects\Demos\App1\ClassLibrary1\ClassLibrary1.csproj;neutral
