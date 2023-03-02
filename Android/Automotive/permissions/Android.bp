@@ -1,0 +1,6 @@
+prebuilt_etc {
+    name: "privapp_whitelist_com.imaginationoverflow.myandroidautoapp",
+    sub_dir: "permissions",
+    src: "com.imaginationoverflow.myandroidautoapp.xml",
+    filename_from_src: true,
+}

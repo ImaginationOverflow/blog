@@ -1,0 +1,5 @@
+<resources>
+
+
+    <style name="Theme.MyAndroidAutoApp" parent="Theme.AppCompat"  />
+</resources>
